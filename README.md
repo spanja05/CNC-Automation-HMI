@@ -7,7 +7,7 @@
    - Ensure the rotary encoder and TFT LCD are wired to the ESP32 as listed.
 
 2. **Install Arduino Libraries**
-   - Open Arduino IDE (or PlatformIO) and install:
+   - Open Arduino IDE and install:
      - `TFT_eSPI`
      - `Preferences`
      - `AiEsp32RotaryEncoder`
