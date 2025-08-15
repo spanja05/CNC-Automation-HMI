@@ -1,6 +1,6 @@
 # CNC Machine HMI – Automated Compressed Air Control
 
-## Quick Start
+## Steps For Running The Program
 
 1. **Hardware Setup**
    - Connect the components according to the [Pin Configurations](#pin-configurations) table below.
