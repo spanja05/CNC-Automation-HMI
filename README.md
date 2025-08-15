@@ -31,11 +31,11 @@
 ## Project Media
 
 ### Photos
-![Setup](https://github.com/user-attachments/assets/ce4e1a94-a347-444a-a7c9-3b233591cb33)
-![Dials Page](https://github.com/user-attachments/assets/b74f5d38-fb36-496d-a933-4ed3a341f9bc)
-![Menu Page](https://github.com/user-attachments/assets/2ca6a293-d1a1-4ca1-892a-dc364a9fa102)
-
----
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/ce4e1a94-a347-444a-a7c9-3b233591cb33" alt="Setup" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b74f5d38-fb36-496d-a933-4ed3a341f9bc" alt="Dials Page" width="300"/>
+  <img src="https://github.com/user-attachments/assets/2ca6a293-d1a1-4ca1-892a-dc364a9fa102" alt="Menu Page" width="300"/>
+</p>
 
 ## About the Project
 
@@ -101,3 +101,6 @@ This project provides a **Human-Machine Interface (HMI)** to control a CNC machi
 | TFT_CS    | 15  |
 | TFT_DC    | 2   |
 | TFT_RST   | 4   |
+
+## Credits
+- [▶ Rotating Sprites](https://www.youtube.com/watch?v=oqBa_ptBmLU)
